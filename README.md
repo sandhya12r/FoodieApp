@@ -31,7 +31,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-A website for a fictitious restauran named 'Appetite', which is responsive on all screen sizes as well as has different set of functionalities depending upon the type of user you are. Admins can add and edit dishes, while a user can add the dishes to the cart, and place the order. With Next-Auth, we have also achived google integration for setting up login for the user using their Google Accounts.
+A website for a fictitious restaurant named 'Foodies', which is responsive on all screen sizes as well as has different set of functionalities depending upon the type of user you are. Admins can add and edit dishes, while a user can add the dishes to the cart, and place the order. With Next-Auth, we have also achived google integration for setting up login for the user using their Google Accounts.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -94,22 +94,21 @@ Click Login with Google. On successful login you will be redirected to the home 
 
 
 ## 🎈 Project View <a name="projectView"></a>
-### Login Page
-<!-- ![LoginPage](public\Login_Page.png) -->
+### Register Page
+<!-- ![LoginPage](public/Signup.png) -->
 <img src="public\Login_Page.png" alt= “” width="1000">
 
-### Google Login *User*
+### Home Login *User*
 <!-- ![LoginProcess](public\GoogleLoginProcess.gif) -->
-<img src="public\GoogleLogin.png" alt= “” width="1000">
+<img src="public\res.png" alt= “” width="1000">
 
 ### ADD To Cart *User Feature*
 <!-- ![AddToCart](public\AddToCartProcess.gif) -->
 <img src="public\AddCart.png" alt= “” width="1000">
-<img src="public\RemoveCart.png" alt= “” width="1000">
 
 ### Add Dishes *Admin Feature*
 <!-- ![CreateDish](public\CreateDish.png) -->
-<img src="public\AddDish.png" alt= “” width="1000">
+<img src="public\Checkout.png" alt= “” width="1000">
 
 ### Edit Dish *Admin Feature* (GIF)
 <!-- ![EditDish](public\EditCartProcess.gif) -->
